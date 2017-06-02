@@ -1,0 +1,9 @@
+D:\work\cs\game\bin\Debug\game.exe.config
+D:\work\cs\game\bin\Debug\game.exe
+D:\work\cs\game\bin\Debug\game.pdb
+D:\work\cs\game\obj\Debug\game.csprojResolveAssemblyReference.cache
+D:\work\cs\game\obj\Debug\game.Form1.resources
+D:\work\cs\game\obj\Debug\game.Properties.Resources.resources
+D:\work\cs\game\obj\Debug\game.csproj.GenerateResource.Cache
+D:\work\cs\game\obj\Debug\game.exe
+D:\work\cs\game\obj\Debug\game.pdb
